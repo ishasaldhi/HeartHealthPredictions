@@ -4,7 +4,7 @@
 ## Background
 The aim of my project is to uncover symptom patterns in heart disease. I'll examine the features that are most predictive of heart health and put people at most risk of heart disease.
 
-In this project, I used CDC data from a Behavioral Risk Factor Surveillance System, filtered for Heart Health Data. Using Tensor Flow, I created a Deep Learning Model to utilize Neural Networks in order to identify the features contributing to Heart Disease. To narrow down the most important features, I created a Decision tree and then subsequently created a bar chart to represent the Decision Tree Feature Importance.
+In this project, I used CDC data from a Behavioral Risk Factor Surveillance System, filtered for Heart Health Data. Using Tensor Flow, I created a Deep Learning Model to utilize Neural Networks in order to identify the features contributing to Heart Disease. To narrow down the most important features, I created a Decision tree and then subsequently created a bar chart to visualize the Decision Tree Feature Importance.
 
 ## Features 
 * Preprocess the data to clean it up for Neural Network
